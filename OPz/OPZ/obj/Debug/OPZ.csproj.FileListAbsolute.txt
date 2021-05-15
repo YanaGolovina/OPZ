@@ -1,0 +1,12 @@
+C:\Users\Stas74\source\repos\OPZ\bin\Debug\OPZ.exe.config
+C:\Users\Stas74\source\repos\OPZ\bin\Debug\OPZ.exe
+C:\Users\Stas74\source\repos\OPZ\bin\Debug\OPZ.pdb
+C:\Users\Stas74\source\repos\OPZ\obj\Debug\OPZ.exe
+C:\Users\Stas74\source\repos\OPZ\obj\Debug\OPZ.pdb
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\bin\Debug\OPZ.exe.config
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\bin\Debug\OPZ.exe
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\bin\Debug\OPZ.pdb
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\obj\Debug\OPZ.csprojAssemblyReference.cache
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\obj\Debug\OPZ.csproj.CoreCompileInputs.cache
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\obj\Debug\OPZ.exe
+C:\Users\Яна\OneDrive\Рабочий стол\OPz\OPZ\obj\Debug\OPZ.pdb
